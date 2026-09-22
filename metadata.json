@@ -1,0 +1,6 @@
+{
+  "name": "SalesPulse - Sales Coaching Intelligence Platform",
+  "description": "AI-powered sales coaching intelligence platform analyzing audio calls with speaker diarization, engagement & sentiment graph, and targeted coaching scorecards.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
